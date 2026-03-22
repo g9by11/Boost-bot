@@ -1,0 +1,15 @@
+{
+  "name": "boost-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour JoinAll et Boost en masse",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "discord.js": "^14.14.0"
+  },
+  "author": "xql.dev",
+  "license": "ISC"
+}
